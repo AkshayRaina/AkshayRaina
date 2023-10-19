@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Akshay Raina</h1>
 
-- 🔭 I’m currently working on **Application Development with focus on SAP, Cloud, and Machine Learning**
-- 🌱 I’m currently learning **how to enable web/mobile apps with Machine Learning capabilities using Cloud Platforms and their services**
-- 👯 I’m looking to collaborate on **Solution Design & Architecture**
-- 💬 Ask me about **Development, Consulting and all things Tech**
+- 🔭 I’m currently working on **Application Development with focus on SAP UI5, Fiori, SAP Cloud Platfrom (aka Business Technology Platform), with a focus on CAPm(Microservices), Node.js, Integration Suite**
+- 🌱 I’m currently learning **how to enable web/mobile apps with AI and Generative AI capabilities using public and private cloud and other cloud provider services**
+- 👯 I’m looking to collaborate on **Solution Design and Solution Architecture as well as Application Architecture on cloud and on premises**
+- 💬 Ask me about **Development, Consulting, and all things Tech**
 - 📫 How to reach me: **akshayraina2594@gmail.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/akshayraina/](https://www.linkedin.com/in/akshayraina/)
-- ⚡ Fun fact: **I am available to discuss ideas and how to execute them**
+- ⚡ Fun fact: **I am available to discuss ideas and how companies and startups can execute them**
 
 
 <h3 align="left">Connect with me:
